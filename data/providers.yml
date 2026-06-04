@@ -1,0 +1,346 @@
+providers:
+  - id: "mofeiyun"
+    name: "墨菲云"
+    name_en: "MoFeiYun"
+
+    website: "https://my.mofeiyun.com/#/register?code=iUjzJTPx"
+
+    category: "免费公益/低价"
+    category_en: "Free public-benefit / Low-cost"
+
+    lowest_price_cny: 0
+    billing_cycle: "公益兑换"
+    billing_cycle_en: "public-benefit redemption"
+
+    traffic: "100GB/月（公益套餐，可用优惠券/礼包卡免费兑换）"
+    traffic_en: "100GB/month (public-benefit plan, redeemable for free with coupon/gift card)"
+
+    free_trial: "有，公益套餐可免费兑换；截图标价 3 元/月"
+    free_trial_en: "Yes. The public-benefit plan can be redeemed for free; screenshot price is CNY 3/month."
+
+    protocols:
+      - "未公开"
+
+    protocols_en:
+      - "Not disclosed"
+
+    node_regions:
+      - "香港"
+      - "澳门"
+      - "台湾"
+      - "日本"
+      - "新加坡"
+      - "韩国"
+      - "美国"
+      - "英国"
+
+    node_regions_en:
+      - "Hong Kong"
+      - "Macau"
+      - "Taiwan"
+      - "Japan"
+      - "Singapore"
+      - "South Korea"
+      - "United States"
+      - "United Kingdom"
+
+    payment:
+      - "未公开"
+
+    payment_en:
+      - "Not disclosed"
+
+    speed_limit: "未公开"
+    speed_limit_en: "Not disclosed"
+
+    device_limit: "3 台设备（公益套餐）"
+    device_limit_en: "3 devices (public-benefit plan)"
+
+    registration: "开放注册"
+    registration_en: "Open registration"
+
+    last_checked: "2026-06-04"
+
+    screenshot: "assets/screenshots/墨菲云.png"
+
+  - id: "liangxinyun"
+    name: "良心云"
+    name_en: "LiangXinYun"
+
+    website: "https://xn--9kqz23b19z.com/#/register?code=p43sBmQh"
+
+    category: "低价"
+    category_en: "Low-cost"
+
+    lowest_price_cny: 2
+    billing_cycle: "月付"
+    billing_cycle_en: "month"
+
+    traffic: "100GB/月（最低套餐）；另有 500GB、1000GB、5000GB、10000GB 等套餐"
+    traffic_en: "100GB/month (lowest plan); other plans include 500GB, 1000GB, 5000GB, and 10000GB."
+
+    free_trial: "未公开"
+    free_trial_en: "Not disclosed"
+
+    protocols:
+      - "未公开"
+
+    protocols_en:
+      - "Not disclosed"
+
+    node_regions:
+      - "全球覆盖"
+      - "新疆"
+      - "河南"
+      - "福建"
+
+    node_regions_en:
+      - "Global coverage"
+      - "Xinjiang"
+      - "Henan"
+      - "Fujian"
+
+    payment:
+      - "未公开"
+
+    payment_en:
+      - "Not disclosed"
+
+    speed_limit: "最低套餐高达 1Gbps；高阶套餐最高 10Gbps"
+    speed_limit_en: "Lowest plan up to 1Gbps; higher plans up to 10Gbps."
+
+    device_limit: "最低套餐 8 台设备；高阶套餐最高 50 台设备"
+    device_limit_en: "Lowest plan supports 8 devices; higher plans support up to 50 devices."
+
+    registration: "开放注册"
+    registration_en: "Open registration"
+
+    last_checked: "2026-06-04"
+
+    screenshot: "assets/screenshots/良心云.png"
+
+  - id: "one-yuan-airport"
+    name: "1元机场"
+    name_en: "1 Yuan Airport"
+
+    website: "https://xn--1-q07a56pdss.com/#/register?code=OXQQ8PXd"
+
+    category: "低价"
+    category_en: "Low-cost"
+
+    lowest_price_cny: 12
+    billing_cycle: "年付"
+    billing_cycle_en: "year"
+
+    traffic: "100GB/月（年付 12 元，折合 1 元/月）；另有 1024GB/季付、2048GB/月付"
+    traffic_en: "100GB/month (CNY 12/year, about CNY 1/month); also offers 1024GB/quarter and 2048GB/month plans."
+
+    free_trial: "未公开"
+    free_trial_en: "Not disclosed"
+
+    protocols:
+      - "未公开"
+
+    protocols_en:
+      - "Not disclosed"
+
+    node_regions:
+      - "香港"
+      - "日本"
+      - "新加坡"
+      - "美国"
+
+    node_regions_en:
+      - "Hong Kong"
+      - "Japan"
+      - "Singapore"
+      - "United States"
+
+    payment:
+      - "未公开"
+
+    payment_en:
+      - "Not disclosed"
+
+    speed_limit: "最低套餐最高 100Mbps；高阶套餐最高 10Gbps"
+    speed_limit_en: "Lowest plan up to 100Mbps; higher plans up to 10Gbps."
+
+    device_limit: "仅限本人使用"
+    device_limit_en: "Personal use only"
+
+    registration: "开放注册"
+    registration_en: "Open registration"
+
+    last_checked: "2026-06-04"
+
+    screenshot: "assets/screenshots/1元机场.png"
+
+  - id: "skylumo"
+    name: "SKYLUMO"
+    name_en: "SKYLUMO"
+
+    website: "http://163.192.42.74/#/register?code=vhLB5TJb"
+
+    category: "低价/不限时流量"
+    category_en: "Low-cost / One-time traffic"
+
+    lowest_price_cny: 9.9
+    billing_cycle: "年付"
+    billing_cycle_en: "year"
+
+    traffic: "50GB/月（基础套餐年付优惠 9.9 元/年）；另有 50G 不限时流量 29.90 元"
+    traffic_en: "50GB/month (Basic yearly promo CNY 9.9/year); also offers 50GB one-time traffic for CNY 29.90."
+
+    free_trial: "未公开"
+    free_trial_en: "Not disclosed"
+
+    protocols:
+      - "未公开"
+
+    protocols_en:
+      - "Not disclosed"
+
+    node_regions:
+      - "全球 3+ 地区"
+      - "全球 10+ 地区"
+      - "全球 30+ 地区"
+
+    node_regions_en:
+      - "Global 3+ regions"
+      - "Global 10+ regions"
+      - "Global 30+ regions"
+
+    payment:
+      - "未公开"
+
+    payment_en:
+      - "Not disclosed"
+
+    speed_limit: "基础套餐 100Mbps；高级/旗舰套餐 300Mbps；不限时高阶套餐 1000Mbps"
+    speed_limit_en: "Basic plan 100Mbps; Advanced/Flagship plans 300Mbps; higher one-time plans 1000Mbps."
+
+    device_limit: "基础套餐 1 个客户端；高级套餐 3 个；旗舰套餐 10 个"
+    device_limit_en: "Basic plan 1 client; Advanced plan 3 clients; Flagship plan 10 clients."
+
+    registration: "开放注册"
+    registration_en: "Open registration"
+
+    last_checked: "2026-06-04"
+
+    screenshot: "assets/screenshots/skylumo.png"
+
+  - id: "jiaojuzhe"
+    name: "搅局者"
+    name_en: "JiaoJuZhe"
+
+    website: "https://xn--rgt72p76d.com/#/register?code=A1SkpJeZ"
+
+    category: "低价"
+    category_en: "Low-cost"
+
+    lowest_price_cny: 10.9
+    billing_cycle: "年付"
+    billing_cycle_en: "year"
+
+    traffic: "500GB/月（Basic）；Premium 为无限流量"
+    traffic_en: "500GB/month (Basic); Premium offers unlimited traffic."
+
+    free_trial: "未公开"
+    free_trial_en: "Not disclosed"
+
+    protocols:
+      - "未公开"
+
+    protocols_en:
+      - "Not disclosed"
+
+    node_regions:
+      - "香港"
+      - "台湾"
+      - "新加坡"
+      - "日本"
+      - "美国"
+      - "欧洲"
+      - "小众地区"
+
+    node_regions_en:
+      - "Hong Kong"
+      - "Taiwan"
+      - "Singapore"
+      - "Japan"
+      - "United States"
+      - "Europe"
+      - "Less-common regions"
+
+    payment:
+      - "未公开"
+
+    payment_en:
+      - "Not disclosed"
+
+    speed_limit: "Basic 200Mbps；Premium 不限速"
+    speed_limit_en: "Basic 200Mbps; Premium has no speed limit."
+
+    device_limit: "2 台设备"
+    device_limit_en: "2 devices"
+
+    registration: "开放注册"
+    registration_en: "Open registration"
+
+    last_checked: "2026-06-04"
+
+    screenshot: "assets/screenshots/搅局者.png"
+
+  - id: "peiqian-airport"
+    name: "赔钱机场"
+    name_en: "PeiQian Airport"
+
+    website: "https://xn--mes358aby2apfg.com/register?code=0Yc7HWhn&cover=sfw"
+
+    category: "低价/不限时流量"
+    category_en: "Low-cost / One-time traffic"
+
+    lowest_price_cny: 1.5
+    billing_cycle: "月付"
+    billing_cycle_en: "month"
+
+    traffic: "100GB/月（最低周期套餐）；另有 1000GB 起不限时流量包"
+    traffic_en: "100GB/month (lowest recurring plan); one-time traffic packages start from 1000GB."
+
+    free_trial: "未公开"
+    free_trial_en: "Not disclosed"
+
+    protocols:
+      - "未公开"
+
+    protocols_en:
+      - "Not disclosed"
+
+    node_regions:
+      - "多个国家"
+      - "多个地区"
+
+    node_regions_en:
+      - "Multiple countries"
+      - "Multiple regions"
+
+    payment:
+      - "未公开"
+
+    payment_en:
+      - "Not disclosed"
+
+    speed_limit: "不限速"
+    speed_limit_en: "No speed limit"
+
+    device_limit: "最低套餐最多 10 台设备；高阶套餐最高 40 台设备"
+    device_limit_en: "Lowest plan supports up to 10 devices; higher plans support up to 40 devices."
+
+    registration: "开放注册"
+    registration_en: "Open registration"
+
+    last_checked: "2026-06-04"
+
+    screenshots:
+      - "assets/screenshots/赔钱机场1.png"
+      - "assets/screenshots/赔钱机场2.png"
